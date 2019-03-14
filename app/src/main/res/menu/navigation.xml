@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_team"
+        android:icon="@drawable/football"
+        android:title="@string/list_team" />
+
+    <item
+        android:id="@+id/navigation_versus"
+        android:icon="@drawable/versus"
+        android:title="@string/list_pertandingan" />
+
+
+</menu>
