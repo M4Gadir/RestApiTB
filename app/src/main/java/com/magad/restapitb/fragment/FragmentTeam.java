@@ -11,7 +11,7 @@ import android.view.ViewGroup;
 import android.widget.Toast;
 
 import com.magad.restapitb.R;
-import com.magad.restapitb.Service.ConfitRetrofit;
+import com.magad.restapitb.service.ConfitRetrofit;
 import com.magad.restapitb.model.ResponseTeam;
 import com.magad.restapitb.model.TeamsItem;
 

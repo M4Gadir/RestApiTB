@@ -1,4 +1,4 @@
-package com.magad.restapitb.Service;
+package com.magad.restapitb.service;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
